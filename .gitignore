@@ -1,0 +1,4 @@
+*.so
+/bin/open-frameworks-playground
+/bin/open-frameworks-playground_debug
+/obj/
